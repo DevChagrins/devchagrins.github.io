@@ -1,7 +1,6 @@
 import './style.css'
 
 import * as THREE from 'three';
-import { RGBA_ASTC_10x10_Format } from 'three';
 
 const scene = new THREE.Scene();
 
